@@ -8,12 +8,10 @@ body::before {
   .news-info {
     width: 50%;
   }
-  .map{
-      margin: 0 auto;
-}
+ 
 
 #map-source{
-    margin:0;
+   
     width:100%;
     height:50vh;
 }
