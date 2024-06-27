@@ -8,6 +8,8 @@ body::before {
   .news-info {
     width: 50%;
   }
+  .map-source{
+      margin: 0 auto;
 }
 
 #map-source{
