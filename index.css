@@ -3,7 +3,12 @@ body::before {
     content: '';
     height: 60px;
   }
-  
+
+@media (min-width: 768px) {
+  .news-info {
+    width: 50%;
+  }
+}
 
 #map-source{
     margin:0;
